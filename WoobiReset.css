@@ -1,0 +1,35 @@
+body, div, span, p,
+h1, h2, h3, h4, h5, h6,
+ul, li, ol,
+b, i, u, center,
+table, th, tr, td,
+form, fieldset, legend, label,
+article, nav, section, menu, header, footer, hgroup,
+img
+{
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+	border: none;
+}
+
+body
+{
+	line-height: 1;
+}
+
+article, nav, section, menu, header, footer, hgroup
+{
+	display: block;
+}
+
+ul, ol
+{
+	list-style: none;
+}
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
