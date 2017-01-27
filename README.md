@@ -1,4 +1,4 @@
-WoobiReset
+Resetta
 ==========
 
 The ultimate CSS reset
